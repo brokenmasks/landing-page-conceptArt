@@ -1,4 +1,4 @@
-#ConceptArt - LandingPage
+## ConceptArt - LandingPage
 
 Um modelo de landing page responsiva para expor artes ou produtos com suas devidas descrições!
 
