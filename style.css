@@ -48,7 +48,7 @@ header .container {
 
 header .container ul li {
     list-style: none;
-    margin-right: 28px;
+    margin-left: 28px;
 }
 
 header .container ul li a {
@@ -455,6 +455,14 @@ main .container .grid-2 {
         width: 38%;
     }
 
+    header .container ul li {
+        margin-left: 0;
+    }
+
+    header .container ul li a {
+        font-size: 1.1em;
+    }
+
     header .container ul {
         flex-direction: column;
         justify-content: space-between;
@@ -614,9 +622,17 @@ main .container .grid-2 {
     }
 
     .logo {
-        font-size: 1.7em;
+        font-size: 1.5em;
         word-break:break-all;
         width: 38%;
+    }
+
+    header .container ul li {
+        margin-left: 0;
+    }
+
+    header .container ul li a {
+        font-size: 1.1em;
     }
 
     header .container ul {
