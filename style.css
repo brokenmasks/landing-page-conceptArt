@@ -359,6 +359,10 @@ main .container .grid-2 {
         margin-bottom: 22px;
     }
 
+    main .grid .about-character{
+        text-align: center;
+    }
+
     main .container .grid-2 {
         display: flex;
         flex-direction: column;
@@ -471,6 +475,10 @@ main .container .grid-2 {
     main .container .grid {
         grid-template-columns: 100%;
         margin-bottom: 22px;
+    }
+
+    main .grid .about-character{
+        text-align: center;
     }
 
     main .container .grid .sketch-grid {
@@ -643,6 +651,10 @@ main .container .grid-2 {
     main .container .grid {
         grid-template-columns: 100%;
         margin-bottom: 22px;
+    }
+
+    main .grid .about-character{
+        text-align: center;
     }
 
     main .container .grid .sketch-grid {
